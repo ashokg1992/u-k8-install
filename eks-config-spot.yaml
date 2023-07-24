@@ -11,4 +11,4 @@ managedNodeGroups:
 - name: spot-1
   spot: true
   ssh:
-    publicKeyName: kubernetes #place your key
+    publicKeyName: gashosk120707 #place your key
