@@ -11,4 +11,4 @@ managedNodeGroups:
 - name: spot-1
   spot: true
   ssh:
-    publicKeyName: gashosk120707 #place your key
+    publicKeyName: gashok120707 #place your key
